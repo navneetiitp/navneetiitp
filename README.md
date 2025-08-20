@@ -1,16 +1,37 @@
-## Hi there 👋
+ # Hi there 👋, I'm Navneet  
 
-<!--
-**navneetiitp/navneetiitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Undergraduate in **Mathematics & Computing** at **IIT Patna**  
+💻 Passionate about **Data Structures, Algorithms, and Competitive Programming**  
+🚀 Exploring **C++ | Python | Open Source Projects**  
+📈 Active on **Codeforces, AtCoder, and LeetCode**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+- Languages: C, C++, Python  
+- Core: Data Structures & Algorithms, Problem Solving  
+- Interests: Competitive Programming, Open Source, Optimization  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## 📊 Competitive Programming Handles  
+- **Codeforces**: [navneetiitp](https://codeforces.com/profile/navneetiitp)  
+- **AtCoder**: [navneetiitp](https://atcoder.jp/users/navneetiitp)  
+- **LeetCode**: [navneetiitp](https://leetcode.com/navneetiitp)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced DSA & Algorithmic Techniques  
+- Problem Solving Patterns  
+- Python for Scripting & Projects  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [github.com/navneetiitp](https://github.com/navneetiitp)  
+- LinkedIn: [linkedin.com/in/navneetkumar-iit28](https://www.linkedin.com/in/navneetkumar-iit28)
+
+---
+⭐️ *Always learning, always coding.*  
