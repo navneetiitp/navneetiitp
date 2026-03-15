@@ -44,17 +44,17 @@ Programming
 ## 📊 Quantitative Trading Projects
 
 **Statistical Arbitrage Pairs Trading (NIFTY 50)**
-- Cointegration-based pairs trading strategy built on NIFTY 50 stocks with portfolio backtesting and performance evaluation.
+  Cointegration-based pairs trading strategy built on NIFTY 50 stocks with portfolio backtesting and performance evaluation.
 **Ornstein–Uhlenbeck Mean Reversion Model**
-- Modeling mean-reverting financial time series using the Ornstein–Uhlenbeck stochastic process.
+  Modeling mean-reverting financial time series using the Ornstein–Uhlenbeck stochastic process.
 **Kalman Filter Dynamic Hedge Ratio**
-- Pairs trading strategy using Kalman filtering to dynamically estimate hedge ratios.
+  Pairs trading strategy using Kalman filtering to dynamically estimate hedge ratios.
 **Limit Order Book Microstructure Analysis**
-- Analyzing liquidity, order flow dynamics, and price impact using limit order book data.
+  Analyzing liquidity, order flow dynamics, and price impact using limit order book data.
 **Optimal Execution (Almgren–Chriss Model)**
-- Implementation of optimal trade execution strategies to minimize market impact and transaction cost.
+  Implementation of optimal trade execution strategies to minimize market impact and transaction cost.
 **Market Making (Avellaneda–Stoikov Model)**
-- Inventory-based market making model with optimal bid-ask spread control.
+  Inventory-based market making model with optimal bid-ask spread control.
 
  ## 📚 Currently Learning
 
