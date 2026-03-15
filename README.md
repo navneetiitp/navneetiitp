@@ -41,39 +41,31 @@ Programming
 - VS Code
 
 
-# 📊 Quantitative Trading Projects
+## 📊 Quantitative Trading Projects
 
-## Statistical Arbitrage Pairs Trading (NIFTY 50)
+Statistical Arbitrage Pairs Trading (NIFTY 50)
 
-Cointegration-based pairs trading strategy built on NIFTY 50 stocks with portfolio backtesting and performance evaluation.
+- Cointegration-based pairs trading strategy built on NIFTY 50 stocks with portfolio backtesting and performance evaluation.
 
-## Ornstein–Uhlenbeck Mean Reversion Model
+Ornstein–Uhlenbeck Mean Reversion Model
 
-Modeling mean-reverting financial time series using the Ornstein–Uhlenbeck stochastic process.
+- Modeling mean-reverting financial time series using the Ornstein–Uhlenbeck stochastic process.
 
-## Kalman Filter Dynamic Hedge Ratio
+Kalman Filter Dynamic Hedge Ratio
 
-Pairs trading strategy using Kalman filtering to dynamically estimate hedge ratios.
+- Pairs trading strategy using Kalman filtering to dynamically estimate hedge ratios.
 
-## Limit Order Book Microstructure Analysis
+Limit Order Book Microstructure Analysis
 
-Analyzing liquidity, order flow dynamics, and price impact using limit order book data.
+- Analyzing liquidity, order flow dynamics, and price impact using limit order book data.
 
-## Optimal Execution (Almgren–Chriss Model)
+Optimal Execution (Almgren–Chriss Model)
 
-Implementation of optimal trade execution strategies to minimize market impact and transaction cost.
+- Implementation of optimal trade execution strategies to minimize market impact and transaction cost.
 
-## Market Making (Avellaneda–Stoikov Model)
+Market Making (Avellaneda–Stoikov Model)
 
-Inventory-based market making model with optimal bid-ask spread control.
-
-## 📊 GitHub Statistics
-
-![Navneet GitHub stats](https://github-readme-stats.vercel.app/api?username=navneetiitp&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetiitp&layout=compact&theme=tokyonight)
-
-
+- Inventory-based market making model with optimal bid-ask spread control.
 
  ## 📚 Currently Learning
 
@@ -87,6 +79,12 @@ Inventory-based market making model with optimal bid-ask spread control.
 
 GitHub: https://github.com/navneetitp
 LinkedIn: https://linkedin.com/in/navneetkumar-iit28
+
+## 📊 GitHub Statistics
+
+![Navneet GitHub stats](https://github-readme-stats.vercel.app/api?username=navneetiitp&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetiitp&layout=compact&theme=tokyonight)
 
 
 ⭐ Building quantitative trading strategies using mathematics, statistics, and programming.
