@@ -3,7 +3,15 @@ Hi there 👋 I'm Navneet Kumar
 🎓 B.Tech in Mathematics & Computing — IIT Patna
 
 I am interested in Quantitative Finance, Statistical Arbitrage, and Algorithmic Trading.
-My focus is on building data-driven trading strategies using mathematics, statistics, and programming.
+
+I build quantitative trading strategies using statistical models, stochastic processes, and market microstructure analysis.
+
+## 🔬 Research Interests
+
+- Statistical Arbitrage
+- Stochastic Processes for Finance
+- Market Microstructure
+- Algorithmic Trading Systems
 
 ## 🧠 Skills
 
